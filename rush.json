@@ -360,8 +360,7 @@
     {
       "packageName": "project-a",
       "projectFolder": "project/project-a",
-      "reviewCategory": "production",
-      "versionPolicyName": "lockVersion"
+      "reviewCategory": "production"
     },
     {
         "packageName": "project-b",

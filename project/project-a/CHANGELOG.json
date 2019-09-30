@@ -1,0 +1,22 @@
+{
+  "name": "project-a",
+  "entries": [
+    {
+      "version": "1.1.0",
+      "tag": "project-a_v1.1.0",
+      "date": "Mon, 30 Sep 2019 12:39:14 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "modify"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"coy-test-component-b\" from `1.0.0` to `2.2.0`"
+          }
+        ]
+      }
+    }
+  ]
+}

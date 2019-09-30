@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "coy-test-component-b": "~2.1.0"
+    "coy-test-component-b": "~2.3.0"
   }
 }

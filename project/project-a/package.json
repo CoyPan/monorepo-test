@@ -1,6 +1,6 @@
 {
   "name": "project-a",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "coypan",
   "license": "ISC",
   "dependencies": {
-    "coy-test-component-b": "1.0.0"
+    "coy-test-component-b": "2.3.0"
   }
 }
