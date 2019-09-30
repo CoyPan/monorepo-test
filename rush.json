@@ -361,7 +361,7 @@
       "packageName": "project-a",
       "projectFolder": "project/project-a",
       "reviewCategory": "production",
-      "skipRushCheck": true
+      "versionPolicyName": "lockVersion"
     },
     {
         "packageName": "project-b",

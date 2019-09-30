@@ -87,4 +87,10 @@
   //    */
   //   "exemptFromRushChange": false
   // }
+  {
+    "policyName": "lockVersion",
+    "definitionName": "individualVersion",
+    "version": "1.0.0",
+    "mainProject": "project-a"
+  }
 ]
