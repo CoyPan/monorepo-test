@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "coy-test-component-b",
+      "comment": "update component",
+      "type": "minor"
+    }
+  ],
+  "packageName": "coy-test-component-b",
+  "email": "coypan@tencent.com"
+}
