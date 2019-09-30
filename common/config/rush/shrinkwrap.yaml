@@ -1,12 +1,17 @@
 dependencies:
   '@rush-temp/coy-test-component-b': 'file:projects/coy-test-component-b.tgz'
   '@rush-temp/project-a': 'file:projects/project-a.tgz'
-  coy-test-component-b: 1.0.0
+  '@rush-temp/project-b': 'file:projects/project-b.tgz'
+  coy-test-component-b: 1.3.0
 packages:
   /coy-test-component-b/1.0.0:
     dev: false
     resolution:
       integrity: sha512-j+CyPQwee/LqN8x+3Zc3RZKpKbJr1O5vmq1fGAS5fYkG1uWN8cciAu9nN4e5wXl6GlZqwWiOi16xdO/EL98nBw==
+  /coy-test-component-b/1.3.0:
+    dev: false
+    resolution:
+      integrity: sha512-voYYffkcoBm/oKhTuD4Xip4cVTWaobxnjsYzKMW4okJcIlvgenaI2Bj+ht+l1Xsutf8/T7RDOcKbcCBSZomMPQ==
   'file:projects/coy-test-component-b.tgz':
     dev: false
     name: '@rush-temp/coy-test-component-b'
@@ -20,8 +25,17 @@ packages:
     dev: false
     name: '@rush-temp/project-a'
     resolution:
-      integrity: sha512-3IsbM5YsJdDaVRZaigoEvhwfvQC/EisJ8Esx8aelD0JTydIMUVyZEP3g1ng252DziOwvkuNjaW9OylwpGLbA2w==
+      integrity: sha512-gSYvpwO98ZbZrNZigezPqX23Jv8LQXMXVbLIQTBCn82YB/NToNoh+By3q/EJsk+xbnwUcb9AnfZYQU9AqDl68g==
       tarball: 'file:projects/project-a.tgz'
+    version: 0.0.0
+  'file:projects/project-b.tgz':
+    dependencies:
+      coy-test-component-b: 1.3.0
+    dev: false
+    name: '@rush-temp/project-b'
+    resolution:
+      integrity: sha512-dcP5D7HaU0pVGolPAedLozWJ5g3KYZbrZVPjMTp5kGttoRGWLPmpVSBv0autaTaGgICKuzpPZo5HwA82FeKhIw==
+      tarball: 'file:projects/project-b.tgz'
     version: 0.0.0
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
@@ -29,4 +43,5 @@ shrinkwrapVersion: 3
 specifiers:
   '@rush-temp/coy-test-component-b': 'file:./projects/coy-test-component-b.tgz'
   '@rush-temp/project-a': 'file:./projects/project-a.tgz'
-  coy-test-component-b: 1.0.0
+  '@rush-temp/project-b': 'file:./projects/project-b.tgz'
+  coy-test-component-b: ~1.3.0

@@ -361,6 +361,11 @@
       "packageName": "project-a",
       "projectFolder": "project/project-a",
       "reviewCategory": "production"
+    },
+    {
+        "packageName": "project-b",
+        "projectFolder": "project/project-b",
+        "reviewCategory": "production"
     }
   ]
 }
