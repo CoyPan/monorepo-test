@@ -8,5 +8,9 @@
     "build": "echo \"project-a\""
   },
   "author": "coypan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "coy-test-component-b": "~1.0.0"
+    // "coy-test-component-b": "file://../../../component/component-b"
+  }
 }
