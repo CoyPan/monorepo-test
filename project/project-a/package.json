@@ -10,7 +10,6 @@
   "author": "coypan",
   "license": "ISC",
   "dependencies": {
-    "coy-test-component-b": "~1.0.0"
-    // "coy-test-component-b": "file://../../../component/component-b"
+    "coy-test-component-b": "1.1.0"
   }
 }
