@@ -360,7 +360,8 @@
     {
       "packageName": "project-a",
       "projectFolder": "project/project-a",
-      "reviewCategory": "production"
+      "reviewCategory": "production",
+      "skipRushCheck": true
     },
     {
         "packageName": "project-b",
