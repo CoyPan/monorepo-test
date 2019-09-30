@@ -1,1 +1,1 @@
-console.log('this is coy-test-componet v-1.2.1');
+console.log('this is coy-test-componet v-1.4.0');
