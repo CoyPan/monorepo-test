@@ -1,6 +1,13 @@
 # Change Log - coy-test-component-b
 
-This log was last generated on Mon, 30 Sep 2019 12:49:55 GMT and should not be manually modified.
+This log was last generated on Mon, 07 Oct 2019 15:04:56 GMT and should not be manually modified.
+
+## 3.0.0
+Mon, 07 Oct 2019 15:04:56 GMT
+
+### Breaking changes
+
+- modify component
 
 ## 2.3.0
 Mon, 30 Sep 2019 12:49:55 GMT
