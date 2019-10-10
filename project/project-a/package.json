@@ -10,6 +10,8 @@
   "author": "coypan",
   "license": "ISC",
   "dependencies": {
-    "coy-test-component-b": "3.0.0"
+    "coy-test-component-b": "3.0.0",
+    "promise": "~6.1.0",
+    "react": "~15.6.2"
   }
 }
