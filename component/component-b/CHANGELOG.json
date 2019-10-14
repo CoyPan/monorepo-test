@@ -2,6 +2,18 @@
   "name": "coy-test-component-b",
   "entries": [
     {
+      "version": "3.1.0",
+      "tag": "coy-test-component-b_v3.1.0",
+      "date": "Mon, 14 Oct 2019 15:04:48 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "update text"
+          }
+        ]
+      }
+    },
+    {
       "version": "3.0.0",
       "tag": "coy-test-component-b_v3.0.0",
       "date": "Mon, 07 Oct 2019 15:04:56 GMT",
